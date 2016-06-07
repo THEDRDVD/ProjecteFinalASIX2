@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Scavenger S.A. - Inicio</title>
+		<title>Scavenger S.A. - Noticias</title>
 		<meta charset="utf-8" />
-		<meta name="description" content="Página principal de Scavenger S.A.">
+		<meta name="description" content="Página de noticias de Scavenger S.A.">
 		<meta name="keywords" content="scavenger,sa,comunidad,half,life,deathmatch,hl2dm,team,fortress,española,españa,steam">
 		<meta name="author" content="DR.DVD">
 		<link rel="icon" href="/img/favicon.ico">
